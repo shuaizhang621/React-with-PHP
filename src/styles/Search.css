@@ -1,0 +1,20 @@
+/*#components-form-demo-normal-login .login-form {*/
+    /*max-width: 300px;*/
+/*}*/
+
+/*#components-form-demo-normal-login .login-form-button {*/
+    /*width: 100%;*/
+/*}*/
+
+.login-form {
+    margin-top: 150px;
+    width: 30%;
+    margin-bottom: 470px;
+    padding: 40px;
+    border-radius: 30px;
+    border-color: black;
+}
+
+.login-form-button {
+    width:  100%
+}

@@ -1,0 +1,24 @@
+.result {
+    margin-top: 5%;
+    width: 80%;
+    margin-bottom: 220px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.back-button {
+    float: left;
+    width: 100px;
+    color: white;
+    background-color: dodgerblue;
+}
+
+.check-out-button {
+    width: 80px;
+}
+
+.title {
+    float: left;
+}

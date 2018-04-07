@@ -1,0 +1,35 @@
+@import '~antd/dist/antd.css';
+@import 'Main.css';
+@import 'Search.css';
+@import 'Result.css';
+@import 'Checkout.css';
+
+.App {
+  text-align: center;
+  background:
+          url('https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifYmy7dIvUtE/v1/-1x-1.jpg')
+          no-repeat top;
+  background-size: 100%;
+  height: 1000px;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;*/
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
